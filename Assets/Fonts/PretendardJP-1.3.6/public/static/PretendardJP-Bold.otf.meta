@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 641bd784e93043d41aa4f2fd1e025470
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pretendard JP
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61d2f64421e60e840a2e1193ef631e15, type: 3}
+  - {fileID: 12800000, guid: 441f56e0d55ec5748b079f46464c3d02, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
